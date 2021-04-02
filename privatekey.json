@@ -1,0 +1,13 @@
+{
+	"type": "service_account",
+	"project_id": "tensile-market-296705",
+	"private_key_id": "ea7d7e20569b492e95d2b775dcccca70f54a0f97",
+	"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCimRWvCdyZeXJt\n+3FyJql09mX2fQFqjv5cK4Z7hMs1MEkkE6hW2ugrg8IVVl/HwCuv70CYmjpLy6ve\ntNV0A8qd5CcpzmknBaMGxox+FKROLVu1jGDEd6PjxqH9GpvWXbBJbSlm1paJDpSM\n0ieBolC+HMBSBpvnFB7JFxPAD+EfLr8SuLmMjBETJouZylRmLaKkHztQf7U1ckLV\nh2xFEr3DC3RsSTz40a87rEx99E+TzmqP/IBxhIphcxeXzUq04iqL84RxeZDkRZ0A\nH4XdSU8J3jq38fj5qST29kiXRaZ47/7OjAzyKE2lqG5MFBbP9iPQ84dtzOLFBtQ9\nsVsOK43jAgMBAAECggEAA4MlCcPqb6eaRi/r8m2itB5tHhbzLzcUMtop1y82KIRO\nKtOrNj0Xo3ZUJ0aCCSboiq4ItNiCsTJ0GE/LBezdtULBadDF9WF/dQetmeeePlC9\nLhMbNViUQg5UtMqcr9O+7sccjCvPJ/oYUWEUw2MbNWVvmMCrIMxkIdniw6pUJZVB\nxi34pPxJ4eGwYVhXV46CTDNV2x0j87RASBWIpa8nJCPLb260qJuyniDOKHfxv+HD\nx5FMkEwT6fh8d89+nG9l5Z0gu9nCLXisGbc16IAr2yTEKGyP0pL6Xd56UI3q8R6b\n3dKGzR/mADjFeRP45HLIRtx0YU3sMp9xuFssmvztEQKBgQDNd+2yTRGHTJNf1s4x\nf1mYadK4omijPPsRqvJiHLwxbrFd7iqjFq0Mam/VQF/Cl+6WqHPjKptuKmaihIVJ\ncMYVBlxchK32W3M230663ZgvQ/++4JAdjQZJmOEdV5mdHPm4kVvgfIifpRieo0QI\n5VO5sSnmkNWzR34KMj4p8sN+CQKBgQDKlhPBVV8iuuXyAmMlwNHlc1PqGIqcZYgh\n+dnOFNgd6Gfodae3e7oVjrvH9p1fQ7FavwNBi/5ZoSAmLaEj0WY53gN5AKiET4ZY\nb2wEIlZXaabp0GFj/Uddp9Sjb9ouD8qyLc54l9sH2s8JnRk8rSZKuT5IW8ux1T45\nSx9aL+zniwKBgQC+1WWClgvysw+qEvMdi99mLNtXOxiejHPQHArVT0UHUH0R9bPK\nF7SP9Id79Dc8oCor6bcAxUDpWB5NUXIOHN0NCARetahxSMzAqTURX+EJ/UkaOq3/\nlEzDrGdg/kyhXRke8Hr6DBBE3mz4YkE9VemmbUKyb9Dbm0oYJEQSZ/RkKQKBgH08\nXaYM4q0ToQcE1soF8zvHGb8DwNyCH6/xRuYRGLEUdPfNlArnn9enzwoEuLClpkQV\nBSxGIMzDwJ4ZYx5DWtC3IKpy77ordz/AUaQUng+XrqmoOiyX7MBG+jq28Me8129i\nxdri9XJbn9WvmmRaHevfrFMK/FdJHhhJCm60Zd2VAoGAF24ybXWlKTGk0KnlN2ws\n99tKPdFZ/AFrRC+R11PRTG94fjPxk37wBEN5qEc3P7Wzb6+uQhl86RfX6/JhllI/\nnpyn9AFz8O8RhqYeRKIp0u+XJD0sZCltMRy1v0sHeHWuyKxQYa2nNMWhOP13NxJU\nOe+ITbXhshEwFa396wnWCXE=\n-----END PRIVATE KEY-----\n",
+	"client_email": "long-tan-le@tensile-market-296705.iam.gserviceaccount.com",
+	"client_id": "101983618945335367733",
+	"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	"token_uri": "https://oauth2.googleapis.com/token",
+	"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/long-tan-le%40tensile-market-296705.iam.gserviceaccount.com"
+  }
+  
